@@ -1,6 +1,6 @@
 # CRM Auto-Entry
 
-Automated lead entry into the Fasttrack CRM via Selenium. Searches for existing contacts and organisations, creates new ones where needed, and adds notes and call records for each lead.
+Automated lead entry into the Fasttrack CRM via Selenium my my documentary outreach. Searches for existing contacts and organisations, creates new ones where needed, and adds notes and call records for each lead.
 
 ## How It Works
 
