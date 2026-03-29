@@ -1,0 +1,14 @@
+# CRM Lead Entry - Paste your leads below (one per line)
+# =====================================================
+# Format:  Institution | Position | Contact Name | Email | Paste in CRM text
+#
+# Use \n for newlines within the Paste in CRM text.
+# Lines starting with # are ignored.
+#
+# Save this file then run:
+#   python3 crm_entry.py --file leads.txt
+#   python3 crm_entry.py --file leads.txt --dry-run    (preview first)
+#
+# Example:
+# VHC Health | Medical Director | Linda Lang | linda.lang@inova.org | Call for APA\nTracker Theme: USA Private\nOrg: VHC Health\nFocus: We are keen to profile your work...
+#
